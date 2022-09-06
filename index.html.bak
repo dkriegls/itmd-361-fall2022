@@ -185,7 +185,7 @@
             </div>
             <button class="accordion"><!--UPDATE-->No Class/Finals Week</button>
             <div class="panel">
-              <h4 Class="topic">Good Luck on Finals</h4>
+              <h4 Class="topic">Good Luck on Finals!</h4>
             </div>
           </div>
         </section>
@@ -318,6 +318,9 @@
               </tr>
             </table>
           </div>
+          <button class="accordion">
+            <h3>Blank</h3>
+          </button>
         </section>        
       </article>
     </main>
